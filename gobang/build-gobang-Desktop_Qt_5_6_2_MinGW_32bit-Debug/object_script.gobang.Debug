@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\checkerboard.o
+./debug\ckernel.o
+./debug\ai.o
+./debug\qrc_ziyuan.o
+./debug\moc_mainwindow.o
+./debug\moc_checkerboard.o
+./debug\moc_ckernel.o
+./debug\moc_ai.o
+);

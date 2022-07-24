@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\checkerboard.o
+./release\ckernel.o
+./release\ai.o
+./release\qrc_ziyuan.o
+./release\moc_mainwindow.o
+./release\moc_checkerboard.o
+./release\moc_ckernel.o
+./release\moc_ai.o
+);
