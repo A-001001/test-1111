@@ -17,7 +17,7 @@ signals:
 public slots:
 
 private:
-
+    //定义不同点位分数存储的表
     vector<vector<int>> scoreMap;
     //定义窗口类
 
